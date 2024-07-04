@@ -3,7 +3,7 @@ SUNSPOT PREDICTION USING AN LSTM.
 About:
 
 
-Sunspots are phenomena seen on the sun's surface that are darker than the rest and represent a flux in the Sun's magnetic field. Although rare, these spots can help determine the sun's general activity and how space is affected. This Jupyter Notebook aims to predict the possibility of sunspots occurring using a data set of sunspot activity and train a neural network based on the data. The neural network's purpose is to aid in predicting future sunspots. 
+Sunspots are phenomena seen on the sun's surface that are darker than the rest and represent a flux in the Sun's magnetic field. Although rare, these spots can help determine the sun's general activity and how space is affected. This Jupyter Notebook aims to predict the possibility of sunspots occurring using a data set of sunspot activity and train a neural network based on the data. The neural network's purpose is to aid in predicting future sunspots. This program is run entirely on a Jupyter notebook. 
 
 How to use:
 
